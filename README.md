@@ -1,5 +1,5 @@
 # Secure ERP
-This is projeck from CodeCool. ERP software need for the administration of company daily operations.solution that is super secure: a short and clean codebase that works on local files, strictly on offline computers.
+This is project from CodeCool. ERP software need for the administration of company daily operations.solution that is super secure: a short and clean codebase that works on local files, strictly on offline computers.
 
 ## What are you going to learn?
 - Collaborate with team.
@@ -7,6 +7,10 @@ This is projeck from CodeCool. ERP software need for the administration of compa
 - Search, filter, and transform data.
 - Write clean code.
 - Conform to requirements.
+
+## TODO BEFOR PRESENTATION
+- add csv and main function in CRM module
+- add and implement additional functions instead of imported (forbidden)
   
 # Tasks
 ## CRM module
